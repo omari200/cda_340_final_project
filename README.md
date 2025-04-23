@@ -27,7 +27,7 @@ Using the Titanic dataset from Kaggle, we explored multiple classification model
 - Final features used: `Sex`, `Age`, `SibSp`, `Parch`, `Fare`
 
 
-## ⚙️ Models Used
+## Models Used
 
 ### 1. Logistic Regression
 - Accuracy: **78%**
