@@ -1,10 +1,10 @@
 # Titanic Survival Modeling - Final Project
 
-This project explores the Titanic dataset to build a predictive model for passenger survival. The work was completed collaboratively as a final project for a Data Analytics course and involves extensive feature engineering, model training, evaluation, and comparison.
+This project explores the Titanic dataset to build a predictive model for passenger survival. The work was completed collaboratively as a final project for my Analytics Models course and involves extensive feature engineering, model training, evaluation, and comparison.
 
 ## Files
-- `colab_notebook.ipynb`: Full code with documentation and outputs
-- `slides.pdf`: PowerPoint slides used for the final presentation
+- `MAT 340 Final Project.ipynb`: Full code with documentation and outputs
+- `Titanic Analytics Models Final Presentation.pptx`: PowerPoint slides used for the final presentation
 - `README.md`: Project overview and explanations
 
 
@@ -72,11 +72,11 @@ We selected the tuned Random Forest Classifier due to its superior performance i
 - GitHub
 
 
-## 📎 Authors
+## Authors
 
-- Chris Smith  
 - Omari Emmanuel  
-- Hanna Nguyen  
+- Hanna Nguyen
+- Chris Smith
 
 Queens University of Charlotte  
 Spring 2025
