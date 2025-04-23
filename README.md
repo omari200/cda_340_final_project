@@ -33,7 +33,7 @@ We explored various machine learning techniques, tuning hyperparameters through 
 - Chris Smith and Hanna Nguyen
 
 ## Resources
-- [Colab Notebook Link](Ihttps://colab.research.google.com/drive/1qYUmOyqNNzVBlotFbG-1BPgfh4OFjr9S)
+- [Colab Notebook Link](https://colab.research.google.com/drive/1qYUmOyqNNzVBlotFbG-1BPgfh4OFjr9S)
 
 ## GitHub Repository
 All project-related code and detailed documentation are available in this repository.
